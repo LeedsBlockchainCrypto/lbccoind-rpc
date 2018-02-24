@@ -1,6 +1,6 @@
 {
-  "name": "litecoind-rpc",
-  "description": "Litecoin Client Library to connect to Litecoin Core via RPC",
+  "name": "lbccoind-rpc",
+  "description": "Forked from Litecoin Client Library to connect to Litecoin Core via RPC",
   "version": "0.7.1",
   "author": {
     "name": "Stephen Pair",
